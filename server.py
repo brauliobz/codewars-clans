@@ -15,7 +15,8 @@ users = {
         "innng": 3,
         "consoli": 2,
         "luizdepra": 65,
-        "marcospb19": 12
+        "marcospb19": 12,
+        "braulio": 136
 }
 refresh_every = 60
 templates = Jinja2Templates(directory="templates")
